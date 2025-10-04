@@ -1,6 +1,5 @@
 # FinMark-AI-Agent-Synthetic-Simulation
 Synthetic Financial Customer Simulation using AI Agents and SDV (CTGAN, HMA) — builds privacy-safe datasets to test financial products, marketing strategies, and behavioral models.
-# FinMark AI Agent – Synthetic Customer Simulation
 
 This project builds synthetic financial datasets and AI-driven simulations
 to test product-market fit and marketing strategies in a privacy-safe environment.
